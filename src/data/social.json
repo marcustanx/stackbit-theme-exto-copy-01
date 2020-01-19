@@ -1,6 +1,11 @@
 {
   "links": [
     {
+      "title": "Github",
+      "icon": "fa-github",
+      "url": "https://github.com/marcustanx"
+    },
+    {
       "type": "linkedin",
       "title": "LinkedIn",
       "icon": "fa-linkedin",
